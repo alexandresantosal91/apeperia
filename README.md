@@ -4,7 +4,7 @@
 
 <p>A  Apeperia é uma startup com um jeito inovador de comprar e montar aplicativos mobile e web para pequenas e médias empresas.</p>
 
-## O curso foi dividido em 3 partes:
+### O curso foi dividido em 3 partes:
 
 1 - Acessibilidade web parte 1: tornando seu front-end inclusivo
 
