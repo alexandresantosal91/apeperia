@@ -2,7 +2,7 @@
 
 <p>Projeto desenvolvido com base nos cursos de acessibilidade e layouts responsivos da Alura.</p>
 
-![Resultado final do projeto]()
+![Resultado final do projeto](img/index.png)
 
 <h4 align="center"><a href="https://alexandresantosal91.github.io/apeperia/">Clique para visitar o projeto</a></h4>
 
